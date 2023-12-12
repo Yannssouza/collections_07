@@ -19,6 +19,7 @@ public class Atividade3 {
 
         Iterator<Integer> isetNumeros = setNumeros.iterator();
 
+        System.out.println("Listar dados do Set:");
         while (isetNumeros.hasNext()) {
             System.out.println(isetNumeros.next());
         }
