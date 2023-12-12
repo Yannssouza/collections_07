@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Atividade3 {
+
     public static void main(String[] args) {
         int numero;
         Set<Integer> setNumeros = new HashSet<>();
@@ -22,4 +23,5 @@ public class Atividade3 {
             System.out.println(isetNumeros.next());
         }
     }
+
 }
